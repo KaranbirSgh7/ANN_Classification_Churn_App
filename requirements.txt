@@ -1,8 +1,10 @@
-tensorflow==2.20.0
-pandas
 numpy
-scikit-learn
 tensorboard
 matplotlib
-streamlit
 notebook
+tensorflow==2.15.0
+keras==2.15.0
+streamlit
+scikit-learn
+pandas
+
